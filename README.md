@@ -8,5 +8,8 @@
 
 `npm start`
 tải ứng dụng expo trên điện thoại
+
 dùng điện thoại ios hoặc android mở camera và quét mã qr hiện trên màn hình console
+
 {@youtube: https://www.youtube.com/watch?v=UXVelWQPGaU}
+
