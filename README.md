@@ -1,11 +1,12 @@
 # edupopsVuong
 
-`git clone https://github.com/vuongthai1205/edupopsVuong.git
-cd edupopsVuong
-npm i
-npm start
-`
+`git clone https://github.com/vuongthai1205/edupopsVuong.git`
 
+`cd edupopsVuong`
+
+`npm i`
+
+`npm start`
 
 tải ứng dụng expo trên điện thoại
 
